@@ -2,8 +2,8 @@
 
 ## Sobre o Projeto
 
-Trabalho desenvolvido pelo **Grupo 9** para a disciplina de **Inteligência Artificial**
-Alunos: Tiago Cometti, Lucas Leão, João Marcos Maia e Jean Carlos Vieira
+- Trabalho desenvolvido pelo **Grupo 9** para a disciplina de **Inteligência Artificial**
+- Alunos: Tiago Cometti, Lucas Leão, João Marcos Maia e Jean Carlos Vieira
 
 ## Como Executar o Projeto
 
